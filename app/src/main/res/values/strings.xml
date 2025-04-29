@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dog Breeds</string>
+    <string name="breeds_screen_title">Breeds</string>
+    <string name="gallery_screen_title">Gallery</string>
+    <string name="error_loading_content_title">Error while loading content</string>
+    <string name="error_loading_content_description">Make sure you have internet connection</string>
+    <string name="error_loading_retry">Retry</string>
+</resources>
